@@ -8,6 +8,10 @@
 [![QQ Group](https://img.shields.io/badge/QQ%20Group-389401003-12B7F5?logo=tencent-qq)](https://qm.qq.com/cgi-bin/qm/qr?k=9V4t4RFo8O__ilW35BzFJrcQRMzfBks8&jump_from=webapi)
 [![SATA License](https://img.shields.io/badge/license-SATA-green.svg)](https://github.com/zTrix/sata-license)
 
+## 提示
+- 本仓库fork自云游君的仓库，并复制dev分支到本仓库的dev2分支修改，作为Meglody.github.io的submodule使用
+- 本项目为submodule时，应指定本仓库的dev2分支
+
 <p align="center">
   <img width="128" src="docs/.vuepress/public/logo.gif">
 </p>
